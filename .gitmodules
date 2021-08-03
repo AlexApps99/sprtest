@@ -1,0 +1,3 @@
+[submodule "libogc"]
+	path = libogc
+	url = https://github.com/AlexApps99/libogc.git
